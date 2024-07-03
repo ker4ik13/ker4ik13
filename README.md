@@ -9,5 +9,5 @@
   <img src="https://img.shields.io/badge/ker4ik13-tg?style=for-the-badge&logo=Telegram&logoColor=white&color=blue"/>
 </a>
 <a href='https://vk.com/kireevdev'>
-  <img src="https://img.shields.io/badge/kireevdev?style=for-the-badge&logo=Vk&logoColor=white&color=blue"/>
+  <img src="https://img.shields.io/badge/kireevdev-vk?style=for-the-badge&logo=Vk&logoColor=white&color=blue"/>
 </a>
